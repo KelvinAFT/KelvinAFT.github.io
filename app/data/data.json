@@ -1,0 +1,122 @@
+[
+	{
+		"id":1,
+		"price" : 2.70,
+		"description" : "Óleo de Soja QUALITÁ Pet 900ml",
+		"image" : "/images/oleo1.jpg",
+		"amount" : 1,
+		"tipo": 0
+	},
+	{
+		"id":5,
+		"price" : 14.20,
+		"description" : "Arroz Agulhinha Tipo 1 TIO JOÃO Pacote 5kg",
+		"image" : "/images/arroz2.jpg",
+		"amount" : 1,
+		"tipo": 0
+	},
+	{
+		"id":6,
+		"price" : 13.50,
+		"description" : "Ovos Branco Grandes Bandeja com 30 Unidades",
+		"image" : "/images/ovos.jpg",
+		"amount" : 1,
+		"tipo": 0
+	},
+	{
+		"id":7,
+		"price" : 6.10,
+		"description" : "Ovos Vermelho Grandes Caipira LABEL ROUGE Bandeja com 6 Unidades",
+		"image" : "/images/ovos2.jpg",
+		"amount" : 1,
+		"tipo": 0
+	},
+	{
+		"id":8,
+		"price" : 8.00,
+		"description" : "Pizza de Mussarela QUALITÁ 380g",
+		"image" : "/images/pizza.jpg",
+		"amount" : 1,
+		"tipo": 1
+	},
+	{
+		"id":9,
+		"price" : 16.90,
+		"description" : "Hambúrguer Big de Picanha WESSEL 400g",
+		"image" : "/images/burguer.jpg",
+		"amount" : 1,
+		"tipo": 1
+	},
+	{
+		"id":10,
+		"price" : 9.60,
+		"description" : "Hambúrguer Bovino Texas Burger SEARA 672g",
+		"image" : "/images/burguer2.jpg",
+		"amount" : 1,
+		"tipo": 1
+	},
+	{
+		"id":11,
+		"price" : 17.70,
+		"description" : "Arroz com Frango Desfiado, Creme de Milho SADIA 600g",
+		"image" : "/images/frango.jpg",
+		"amount" : 1,
+		"tipo": 1
+	},
+	{
+		"id":12,
+		"price" : 2.80,
+		"description" : "Leite Longa Vida Desnatado QUALITÁ 1 Litro",
+		"image" : "/images/leite.jpg",
+		"amount" : 1,
+		"tipo": 2
+	},
+	{
+		"id":13,
+		"price" : 3.60,
+		"description" : "Leite Longa Vida Semi Desnatado Ninho NESTLÉ 1 Litro",
+		"image" : "/images/leite2.jpg",
+		"amount" : 1,
+		"tipo": 2
+	},
+	{
+		"id":14,
+		"price" : 11.50,
+		"description" : "Água de Coco FRUIT E LIFE 1 Litro",
+		"image" : "/images/coco.jpg",
+		"amount" : 1,
+		"tipo": 2
+	},
+	{
+		"id":15,
+		"price" : 7.60,
+		"description" : "Refrigerante COCA COLA Zero Garrafa 2,5 Litros",
+		"image" : "/images/refrigerante.jpg",
+		"amount" : 1,
+		"tipo": 2
+	},
+	{
+		"id":16,
+		"price" : 38.50,
+		"description" : "Queijo Orgânico Minas Padrão CRUZÍLIA 550g",
+		"image" : "/images/queijo.jpg",
+		"amount" : 1,
+		"tipo": 3
+	},
+	{
+		"id":17,
+		"price" : 15.50,
+		"description" : "Chocolate Orgânico Meio Amargo 70 CHOKOLAH Tablete 80g",
+		"image" : "/images/chocolate.jpg",
+		"amount" : 1,
+		"tipo": 3
+	},
+	{
+		"id":18,
+		"price" : 8.50,
+		"description" : "Torrada Retangular Integral Orgânica BEM Caixa 70g",
+		"image" : "/images/pão.jpg",
+		"amount" : 1,
+		"tipo": 3
+	}
+]
