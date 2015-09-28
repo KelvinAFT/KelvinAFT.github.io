@@ -134,7 +134,7 @@ li{
 	color: $color-orange-348;
 }
 .color-white{
-	color: white !important;
+	color: white;
 }
 .color-grey-100{
 	color: $color-grey-ccc;
@@ -706,7 +706,7 @@ input:active{
 	visibility: hidden;
 	width: 100%;
 	footer{
-		margin-bottom: 35px;
+		margin-bottom: 75px;
 		align-items: center;
 		color: white;
 		display: flex;
@@ -743,25 +743,22 @@ input:active{
 	background-size: 100%;
 }
 .pg-page-2{
-	@include bg-gradient-t2b($color-red, $color-red-2);
-	//background: $color-green;
+	//@include bg-gradient-t2b($color-red, $color-red-2);
+	background: $color-red;
 }
 .pg-page-3{
-	@include bg-gradient-t2b($color-blue, $color-blue-3);
-	//background: $color-red;
+	//@include bg-gradient-t2b($color-blue, $color-blue-3);
+	background: $color-blue-2;
 }
 .pg-page-4{
-	@include bg-gradient-t2b($color-orange-348, $color-orange-348-2);
-	//background: $color-orange-348;
+	//@include bg-gradient-t2b($color-orange-348, $color-orange-348-2);
+	background: $color-orange-348;
 }
 .pg-page-5{
-	@include bg-gradient-t2b($color-green, $color-green-2);
-	//background: $color-blue;
+	//@include bg-gradient-t2b($color-green, $color-green-2);
+	background: $color-green-2;
 }
-.pg-page-6{
-	@include bg-gradient-t2b($color-purple, $color-purple-2);
-	//background: $color-purple;
-}
+
 .font-scale-200{
 	transform: scale(2);
 }
